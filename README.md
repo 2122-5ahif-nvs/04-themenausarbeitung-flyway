@@ -2,5 +2,5 @@
 
 [Github Repository](https://github.com/FabianTischler/flyway-presentation/tree/main)
 
-[GH-Pages](https://fabiantischler.github.io/flyway-presentation/)
+[GH-Pages](https://fabiantischler.github.io/flyway-presentation/slides)
 
